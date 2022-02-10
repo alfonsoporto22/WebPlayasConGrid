@@ -33,6 +33,11 @@ h1{
     width: 80%;
     height: 300px;
     margin-left: 10%;
+    transition: 100ms;
+}
+
+.playas>img:hover{
+    transform: scale(1.1);
 }
 
 .playas>h3{
