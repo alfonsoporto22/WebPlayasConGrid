@@ -30,9 +30,9 @@ h1{
     text-shadow: 1px 1px 1px grey;
 }
 .playas>img{
-    width: 400px;
+    width: 80%;
     height: 300px;
-    margin-left: 15%;
+    margin-left: 10%;
 }
 
 .playas>h3{
