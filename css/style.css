@@ -1,0 +1,26 @@
+
+
+.titulo{grid-area: titulo;}
+.playa1{grid-area: playa1;}
+.playa2{grid-area: playa2;}
+.playa3{grid-area: playa3;}
+.playa4{grid-area: playa4;}
+.playa5{grid-area: playa5;}
+.playa6{grid-area: playa6;}
+
+body{
+    margin: 4% 5%;
+    display: grid;
+    grid-template-areas:
+    'titulo titulo titulo'
+    'playa1 playa2 playa3'
+    'playa4 playa5 playa6';
+    padding:10px;
+    border: 1px solid blue;
+    border-radius: 10px;
+}
+
+.playas>img{
+    width: 400px;
+    height: 300px;
+}
