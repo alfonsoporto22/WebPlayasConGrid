@@ -29,10 +29,11 @@ h1{
     border-radius: 10px 10px 0px 0px;
     text-shadow: 1px 1px 1px grey;
 }
-.playas>img{
+.playas>a>img{
     width: 80%;
     height: 200px;
     margin-left: 10%;
+    transition: 100ms;
     transition: 100ms;
 }
 
