@@ -19,6 +19,13 @@
     border-radius: 10px;
 }
 
+body{
+    background-image:url(/WebPlayasConGrid/fotos/fondo2.jpg);
+    background-repeat: no-repeat;
+    background-position: unset;
+    background-size: cover;
+}
+
 h1{
     font-size: 70px;
     margin: 0px;
@@ -61,4 +68,5 @@ h1{
     color: blue;
     text-shadow: 1px 1px 1px black;
     background-color: antiquewhite;
+    margin: 5% 15%;
 }
