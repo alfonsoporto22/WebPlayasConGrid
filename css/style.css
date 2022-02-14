@@ -34,10 +34,9 @@ h1{
     height: 200px;
     margin-left: 10%;
     transition: 100ms;
-    transition: 100ms;
 }
 
-.playas>img:hover{
+.playas>a:hover img{
     transform: scale(1.1);
 }
 
